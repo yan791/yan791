@@ -31,11 +31,3 @@ Sou um entusiasta da tecnologia e desenvolvedor em formação, focado em constru
 </div>
 
 ---
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yan791&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://streak-stats.demolab.com?user=yan791&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yan791&theme=react-dark&area=true&hide_border=false" height="300" />
-</div>
