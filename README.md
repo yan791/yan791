@@ -26,7 +26,7 @@ I am passionate about **programming** and the process of turning ideas into real
 
 ---
 
-###  Main Technologies
+###  Main Technologies:
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -57,5 +57,3 @@ I am passionate about **programming** and the process of turning ideas into real
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan791&layout=compact&theme=tokyonight&hide_border=true" />
 <img height="160em" src="https://streak-stats.demolab.com?user=yan791&theme=tokyonight&hide_border=true" />
 </div>  
-
----
