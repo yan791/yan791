@@ -63,8 +63,3 @@
 </div>  
 
 ---
-
-### ✨ Fun Fact  
-
-💬 *“Código é como mágica, mas com mais bugs.”* 🪄🐛  
-
