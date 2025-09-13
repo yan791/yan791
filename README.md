@@ -7,13 +7,13 @@
 
 ---
 
-### 💡 Sobre mim  
+### About me  
 
-Sou apaixonado por **programação** e pelo processo de transformar ideias em soluções reais. Durante meu tempo livre, desenvolvi **projetos e atividades** que refletem minha dedicação em aplicar na prática os conhecimentos adquiridos. Busco constantemente **expandir minhas habilidades técnicas** e explorar novas tecnologias, encarando cada desafio como uma oportunidade para me **testar como profissional** e evoluir na área de tecnologia. Estou sempre **aberto a colaborações** e a novos caminhos que me permitam continuar crescendo.
+I am passionate about **programming** and the process of turning ideas into real solutions. In my free time, I have developed **projects and activities** that reflect my dedication to putting acquired knowledge into practice. I am constantly seeking to **expand my technical skills** and explore new technologies, viewing each challenge as an opportunity to **test myself as a professional** and grow in the field of technology.  
 
 ---
 
-### 🌎 Onde me encontrar  
+### Follow me: 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yan-ribeiro-nunes" target="_blank">
@@ -26,12 +26,26 @@ Sou apaixonado por **programação** e pelo processo de transformar ideias em so
 
 ---
 
-### 🛠️ Linguagens mais utilizadas 
+###  Main Technologies
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</div>  
+
+---
+
+### My stack: 
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
 </div>  
 
 ---
@@ -42,16 +56,6 @@ Sou apaixonado por **programação** e pelo processo de transformar ideias em so
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yan791&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan791&layout=compact&theme=tokyonight&hide_border=true" />
 <img height="160em" src="https://streak-stats.demolab.com?user=yan791&theme=tokyonight&hide_border=true" />
-</div>  
-
----
-
-### 🚀 Atualmente aprendendo  
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
 </div>  
 
 ---
