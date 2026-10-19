@@ -41,11 +41,11 @@ static const Developer yan = {
 
 ## Featured Projects
 
-| Project | Overview | Stack |
-| :-- | :-- | :-- |
-| **[Frevo Runner](https://github.com/yan791/Frevo_Runner)** | Endless-runner game inspired by Olinda's Carnival. Obstacles are managed through a dynamic linked list, scores persist in a sorted ranking, and sound effects are generated in pure C at build time. Built by a team of three. | `C` `Raylib` `Make` |
-| **[Flight-Critical Task Scheduler](https://github.com/yan791/Escalonamento_de_tarefas_criticas_de_voo)** | Preemptive scheduling simulator for periodic avionics tasks, comparing **Rate-Monotonic** and **Earliest-Deadline-First**. Strict input validation, controlled failure paths, and a warning-free build under `-Wall -Wextra -Wpedantic`. | `C11` `Make` |
-| **[ProcessFlow](https://github.com/yan791/ProcessFlow)** | POSIX process orchestrator with interactive and workflow modes: sequential, parallel and piped execution, I/O redirection, background jobs and `SIGCHLD` handling — built on `fork`, `execvp`, `dup2` and `pipe`, with no `system()` or `popen()`. | `C` `POSIX` |
+| Project | Overview |
+| :-- | :-- |
+| **[Frevo Runner](https://github.com/yan791/Frevo_Runner)**<br /><sub>C · Raylib · Make</sub> | Endless-runner game inspired by Olinda's Carnival. Obstacles are managed through a dynamic linked list, scores persist in a sorted ranking, and sound effects are generated in pure C at build time. Built by a team of three. |
+| **[Flight-Critical Task Scheduler](https://github.com/yan791/Escalonamento_de_tarefas_criticas_de_voo)**<br /><sub>C11 · Real-time scheduling</sub> | Preemptive scheduling simulator for periodic avionics tasks, comparing **Rate-Monotonic** and **Earliest-Deadline-First**. Strict input validation, controlled failure paths, and a warning-free build under `-Wall -Wextra -Wpedantic`. |
+| **[ProcessFlow](https://github.com/yan791/ProcessFlow)**<br /><sub>C · POSIX · Linux</sub> | Process orchestrator with interactive and workflow modes: sequential, parallel and piped execution, I/O redirection, background jobs and `SIGCHLD` handling — built on `fork`, `execvp`, `dup2` and `pipe`, with no `system()` or `popen()`. |
 
 <details>
 <summary><b>More work</b> — team products and systems coursework</summary>
@@ -73,9 +73,9 @@ static const Developer yan = {
 
 <p align="center">
   <img height="165" alt="GitHub stats"
-       src="https://github-readme-stats.vercel.app/api?username=yan791&show_icons=true&hide_border=true&border_radius=8&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&ring_color=38BDF8" />
+       src="https://github-readme-stats.vercel.app/api?username=yan791&show_icons=true&hide_rank=true&hide=stars&include_all_commits=true&hide_border=true&border_radius=8&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
   <img height="165" alt="Most used languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan791&layout=compact&langs_count=8&hide_border=true&border_radius=8&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan791&layout=compact&langs_count=8&hide=perl,makefile&hide_border=true&border_radius=8&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
 </p>
 
 <p align="center">
