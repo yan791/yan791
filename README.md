@@ -73,7 +73,7 @@ static const Developer yan = {
 
 <p align="center">
   <img height="165" alt="GitHub stats"
-       src="https://github-readme-stats.vercel.app/api?username=yan791&show_icons=true&hide_rank=true&hide=stars&include_all_commits=true&hide_border=true&border_radius=8&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
+       src="https://github-readme-stats.vercel.app/api?username=yan791&show_icons=true&hide_rank=true&hide=stars&hide_border=true&border_radius=8&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
   <img height="165" alt="Most used languages"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan791&layout=compact&langs_count=8&hide=perl,makefile&hide_border=true&border_radius=8&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
 </p>
